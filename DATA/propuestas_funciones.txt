@@ -1,0 +1,50 @@
+funcion descuentos
+
+top tres descomptes (0%,12%,10%): 
+- quins articles son els mes repetits de cada un
+- fer grafica dels articles
+
+
+funcion meses 2
+
+- top articulos por cada mes del año en diferentes graficas para visualizar los productos
+
+
+#funcion articulos más frequentes
+
+#top 10:
+#- fer grafica
+
+funcion precios
+
+- articulos con precio mas alto y graficarlos (top 10) - grafica
+- los articulos que hayan mas, y su precio (top 10) - grafica
+
+funcion importe liquido total 0:
+
+- crear un dataframe amb tots el productes que 
+tinguin importe liquido = 0
+- mostrar el df
+
+funcion importe liquido comapartiva amb precio coste
+- comparar els preus de precio coste amb liquido.
+- per exemple: 
+producte = 10€ -- vendido = 20€
+beneficio bruto = 10€
+quitamos IVA (3.00 €) = 7€
+
+
+funcion codigo de familia mas repetido:
+
+- los 5 articulos que mes hi ha per cada codic de familia
+- + la frequencia
+
+funcion familia y subfamilia
+
+- agrupar els codics de familia i relacionarlos amb els 
+codics de las subfamilias i posar els que hi han mes de cada
+
+
+funcion top 10 de número de pedido mas frequente
+
+- fer la grafica
